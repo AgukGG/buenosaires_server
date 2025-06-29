@@ -2,7 +2,7 @@ JVM info: Microsoft - 21.0.7 - 21.0.7+6-LTS
 java.net.preferIPv4Stack=true
 Found java version 21.0.7
 Installing server to current directory
-MESSAGE: Data kindly mirrored by Forge at https://forums.minecraftforge.net/
+MESSAGE: Data kindly mirrored by CreeperHost at https://creeperhost.net/
 MESSAGE: Considering minecraft server jar
 MESSAGE: Downloading minecraft server version 1.7.10
 MESSAGE:   Downloading library from https://launcher.mojang.com/v1/objects/952438ac4e01b4d115c5fc38f891710c4941df29/server.jar
